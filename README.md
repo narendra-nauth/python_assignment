@@ -18,8 +18,8 @@ The following functionality were implemented:
 Instructions To Run:
 1. Install Python
 2. Import the following python packages using PIP (pip install package_name):
-   a. matplotlib.pyplot
-   b. numpy
-   c. tabulate
-   d. statistics
+   - matplotlib.pyplot
+   - numpy
+   - tabulate
+   - statistics
 3. Run code (py assignment.py)
